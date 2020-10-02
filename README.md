@@ -4,4 +4,5 @@
 # Toon based on angle.
 ![](gif(5).gif)
 # Z-Buffer.
+![](gif(13).gif)
 ![alt_text](Zdepth.JPG)
